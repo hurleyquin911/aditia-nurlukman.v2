@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "homepage": "https://username.github.io/nama-repositori",
     "dev": "next dev",
     "build": "next build",
     "export": "next export",
