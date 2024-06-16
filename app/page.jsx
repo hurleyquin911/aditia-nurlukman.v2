@@ -7,9 +7,7 @@ export default function Home() {
         Hallo ini ujang dong
       </div>
 
-      <div>
-        Apakah Manusia disini baik-baik saja ? 
-      </div>
+      <div>Apakah Manusia disini baik-baik saja ?</div>
     </main>
   );
 }
