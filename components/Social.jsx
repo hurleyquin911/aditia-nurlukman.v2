@@ -12,7 +12,7 @@ import {
 const socials = [
   {
     icon: <FaGithub />,
-    path: "",
+    path: "https://github.com/hurleyquin911",
   },
   {
     icon: <FaLinkedinIn />,
